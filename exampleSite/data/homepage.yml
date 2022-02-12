@@ -4,9 +4,7 @@ banner:
   bg_image: images/bg/main-banner1.jpg
   subtitle: Enterprise Technology for freelancers, small and medium sized business'
   title: 'Affordable, modern, '
-  content: Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam
-    ratione. Facilis velit voluptatibus impedit eligendi delectus illo earum voluptatum,
-    laudantium molestiae!
+  content: Enterprise Technology for freelancers, small and medium sized business'
   button:
     enable: true
     label: Learn more about Digicon
