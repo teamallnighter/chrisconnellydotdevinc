@@ -82,9 +82,9 @@ weight = 5
 [outputs]
 home = ["HTML", "JSON"]
 [params]
-author = "Themefisher"
+author = "Chris Connelly"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-description = "This is meta description"
+description = "web design, ecommerce, calgary, marketing, ad agency, advertising firm, alberta, website design, graphic designer, branding, identity, blue, ocean, interactive, marketing, chrisconnelly sem, smo, ppc, seo"
 email = "me@chrisconnelly.dev"
 footer_content = "Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus."
 location = "North Main Street,Brooklyn Australia"
