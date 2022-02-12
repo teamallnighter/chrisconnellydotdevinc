@@ -58,7 +58,7 @@ counter:
   enable: true
   counter_item:
   - title: Projects Done
-    count: "50"
+    count: 50+
     unit: "+"
   - title: User Worldwide
     count: "125"
