@@ -83,10 +83,10 @@ weight = 5
 home = ["HTML", "JSON"]
 [params]
 author = "Chris Connelly"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Design and Developed by Chris Connelly"
 description = "web design, ecommerce, calgary, marketing, ad agency, advertising firm, alberta, website design, graphic designer, branding, identity, blue, ocean, interactive, marketing, chrisconnelly sem, smo, ppc, seo"
 email = "me@chrisconnelly.dev"
-footer_content = "Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus."
+footer_content = "Located in Calgary, Alberta, Blue Ocean Interactive Marketing creates online marketing strategies that enable your business to grow.\n\nOur customized marketing solutions combine creative ideas & the latest technologies that solve your unique business needs."
 location = "North Main Street,Brooklyn Australia"
 logo = "images/logo.png"
 logo_white = "images/logo-w.png"
