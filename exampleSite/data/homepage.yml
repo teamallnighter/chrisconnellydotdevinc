@@ -87,36 +87,14 @@ testimonial:
       recommend him to anybody.
 
       '
-  - name: Julio Dimple
-    image: images/team/testimonial2.jpg
-    location: Newyork USA
-    content: Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic.
-      Qui ullam iste provident mollitia expedita facilis fuga repellat.
-  - name: John Partho
+  - name: Geoff Wright
     image: images/team/testimonial1.jpg
-    location: Newyork USA
-    content: Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic.
-      Qui ullam iste provident mollitia expedita facilis fuga repellat.
-  - name: Julio Dimple
-    image: images/team/testimonial2.jpg
-    location: Newyork USA
-    content: Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic.
-      Qui ullam iste provident mollitia expedita facilis fuga repellat.
-  - name: John Partho
-    image: images/team/testimonial1.jpg
-    location: Newyork USA
-    content: Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic.
-      Qui ullam iste provident mollitia expedita facilis fuga repellat.
-  - name: Julio Dimple
-    image: images/team/testimonial2.jpg
-    location: Newyork USA
-    content: Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic.
-      Qui ullam iste provident mollitia expedita facilis fuga repellat.
-  - name: John Partho
-    image: images/team/testimonial1.jpg
-    location: Newyork USA
-    content: Maiores quasi placeat harum itaque, ducimus cumque quas expedita hic.
-      Qui ullam iste provident mollitia expedita facilis fuga repellat.
+    location: 'Calgary '
+    content: Chris has redeveloped our website with fresh new ideas and provided us
+      with several options to expand or create a more interactive website for our
+      clients.  The cost in doing so was very reasonable and the process was very
+      smooth.  Were happy with the end result and look forward to continually redeveloping
+      our website with new innovative ideas.
   - name: Julio Dimple
     image: images/team/testimonial2.jpg
     location: Newyork USA
