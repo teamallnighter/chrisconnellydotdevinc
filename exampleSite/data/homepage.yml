@@ -52,8 +52,8 @@ call_to_action:
 project:
   enable: true
   title: I've done lots of web design work for Calgary based business' just like yours!
-  content: We have the best experts to elevate your business to the next level, try
-    is and you will see! We have the best experts to elevate your
+  content: Let me help elevate your business to the next level with modern web design
+    techniques and state of the art technology
 counter:
   enable: true
   counter_item:
