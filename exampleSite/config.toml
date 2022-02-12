@@ -125,7 +125,7 @@ enable = false
 preloader = ""
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://facebook.com/chrisconnellydotdev"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
