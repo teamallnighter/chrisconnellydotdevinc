@@ -77,7 +77,7 @@ testimonial:
   content: Hear what my most recent customers have to say!
   testimonial_item:
   - name: Dustin Poole
-    image: images/team/testimonial1.jpg
+    image: "/images/dustin.jpg"
     location: Calgary
     content: 'Chris is super awesome to work with, very personable, he gets things
       done with no hassle and really knows what he''s doing. He has a really diverse
