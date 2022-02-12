@@ -60,9 +60,9 @@ counter:
   - title: Projects Done
     count: 50+
     unit: "+"
-  - title: User Worldwide
-    count: "125"
-    unit: M
+  - title: Deployment House
+    count: '1,000'
+    unit: "+"
   - title: Availble Country
     count: "39"
     unit: ''
