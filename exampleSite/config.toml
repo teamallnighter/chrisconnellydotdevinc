@@ -1,6 +1,6 @@
 baseurl = "http://demo.themefisher.com/orbitor-hugo/"
 disqusShortname = "themefisher-template"
-googleAnalytics = ""
+googleAnalytics = "UA-168676797-1"
 languageCode = "en-us"
 paginate = 4
 summaryLength = "10"
@@ -85,12 +85,12 @@ home = ["HTML", "JSON"]
 author = "Themefisher"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 description = "This is meta description"
-email = "support@gmail.com"
+email = "me@chrisconnelly.dev"
 footer_content = "Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus."
 location = "North Main Street,Brooklyn Australia"
 logo = "images/logo.png"
 logo_white = "images/logo-w.png"
-mobile = "+23-345-67890"
+mobile = "+14038310028"
 [params.cookies]
 enable = false
 expire_days = 2
