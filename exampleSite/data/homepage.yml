@@ -40,8 +40,8 @@ feature:
     content: Our sites come search engine optimized out of the box! So your potential
       customers always find you.
   - icon: ti-rocket
-    title: Mobility
-    content: A complete web app solution for business
+    title: Load Speed
+    content: Our websites are optimized to load fast on all devices!
 call_to_action:
   enable: true
   title: Assurance Service In Software Testing
