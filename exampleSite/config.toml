@@ -89,7 +89,7 @@ email = "me@chrisconnelly.dev"
 footer_content = "Located in Calgary, Alberta, chrisConnellyDotDev creates online marketing strategies that enable your business to grow.\n\nOur customized marketing solutions combine creative ideas & the latest technologies that solve your unique business needs."
 location = "Calgary, Alberta, Canada"
 logo = "images/ccdd.png"
-logo_white = "/images/ccdd-1.png"
+logo_white = "/images/ccdd75.png"
 mobile = "+14038310028"
 [params.cookies]
 enable = false
