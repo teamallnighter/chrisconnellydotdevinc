@@ -58,8 +58,8 @@ counter:
   enable: true
   counter_item:
   - icon: ''
-    title: ''
-    count: ''
+    title: Projects
+    count: "25"
     unit: ''
   - title: Available Countries
     count: "39"
