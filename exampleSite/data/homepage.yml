@@ -20,9 +20,9 @@ banner_feature:
     title: Advanced customer portal
     content: With our customer portal you know exactly what you are paying for down
       to the second!
-  - icon: ti-headphone-alt
-    title: Creating a dedicated IT business growth
-    content: Saepe nulla praesentium eaque omnis perferendis a doloremque.
+  - icon: ti-bar-chart-alt
+    title: Your Growth Matters Most
+    content: 'We want to help your business grow! '
 feature:
   enable: true
   subtitle: Why
