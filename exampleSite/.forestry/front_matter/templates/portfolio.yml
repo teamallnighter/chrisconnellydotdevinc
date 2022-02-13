@@ -21,5 +21,4 @@ fields:
   name: category
   label: category
 pages:
-- exampleSite/content/portfolio/guardian-condo-care.md
 - exampleSite/content/portfolio/studio-phi-tattoos.md
