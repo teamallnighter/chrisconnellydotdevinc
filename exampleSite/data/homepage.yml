@@ -58,6 +58,10 @@ counter:
   enable: true
   counter_item:
   - icon: ''
+    title: Deployment Hours
+    count: '10,000'
+    unit: ''
+  - icon: ''
     title: Projects
     count: "25"
     unit: ''
