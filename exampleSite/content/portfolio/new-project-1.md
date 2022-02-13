@@ -1,22 +1,18 @@
 ---
-title: "Project california"
-date: 2019-09-05T15:24:04+06:00
-draft: false
-description: "This is meta description"
-page_header_bg: "images/bg/section-bg5.jpg"
-category: "Web Development"
-image : "images/portfolio/1.jpg"
+title: Studio Phi Tattoos
+date: 2021-12-05T10:24:04+00:00
+description: Calgary Web Design and Studio Phi Tattoos
+page_header_bg: "/images/calgary-web-design-sp-shop.png"
+category: Web Development
+image: "/images/calgary-web-design-sp-home.png"
+draft: true
+
 ---
+### Calgary Web Design and Studio Phi Tattoos
 
+My good friend Dustin runs a tattoo shop in Calgary and asked me to help out with his square space site. The cool thing about square space is that I was able to pull the site locally (to my work computer) and work on the site in code. After building the hero image with photos already on the server I did some layout changes and helped implement Art of where API with Square space.
 
-### Engaging content and flexible User experience help to grow more
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, 
-
-remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-- **Project Name:** Business Accounting
-- **Client:** Company Name Inc.
-- **Project Start Date:** February 18, 2018
-- **Project Completion Date:** January 25, 2018
-- **Project url:** www.example.com
+* **Project Name:** Studio Phi Tattoos Home Page and Ecomm
+* **Build:** Custom JavaScript, API's and Squarespace
+* **Features:** Marketing, E-commerce and scheduling
+* **Project url:** [www.studiophitattoos.com](https://studiophitattoos.com/ "/studiophitattoos.com")
