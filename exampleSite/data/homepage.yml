@@ -101,13 +101,6 @@ testimonial:
       website for our clients.  \nThe cost in doing so was very reasonable and the
       process was very smooth.  We're happy with the end result and look forward to
       continually redeveloping our website with new innovative ideas."
-  - name: Kate Mcparland
-    image: "/images/kate.jpg"
-    location: Tattoos By Kate
-    content: Chris from Calgary web design is a delight to work with. Not only is
-      he very good at what he does, but he is personable and very easy to communicate
-      with. He’s innovated and thorough. I highly recommend him. Thanks so much for
-      your hard work, Chris!
   - name: Colleen Connelly
     image: "/images/connelly.webp"
     location: Connelly & Company
@@ -115,3 +108,10 @@ testimonial:
       potential customers beautiful proposals and quotes. He implemented it with a
       content management system so our management team can easily fill out a form
       generate the proposal and send it our potential customers. '
+  - name: Kate Mcparland
+    image: "/images/kate.jpg"
+    location: Tattoos By Kate
+    content: Chris from Calgary web design is a delight to work with. Not only is
+      he very good at what he does, but he is personable and very easy to communicate
+      with. He’s innovated and thorough. I highly recommend him. Thanks so much for
+      your hard work, Chris!
