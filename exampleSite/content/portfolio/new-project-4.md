@@ -4,7 +4,7 @@ date: 2021-12-05T18:56:00+00:00
 description: This is meta description
 page_header_bg: images/bg/section-bg5.jpg
 category: Web Development
-image: "/images/4.jpg"
+image: ''
 
 ---
 ### Calgary Web Design & Studio Phi Tattoos
