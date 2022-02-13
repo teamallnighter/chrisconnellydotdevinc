@@ -104,10 +104,11 @@ testimonial:
   - name: Colleen Connelly
     image: "/images/connelly.webp"
     location: Connelly & Company
-    content: 'Calgary web design helped us build a web app that we use to offer our
+    content: Calgary web design helped us build a web app that we use to offer our
       potential customers beautiful proposals and quotes. He implemented it with a
       content management system so our management team can easily fill out a form
-      generate the proposal and send it our potential customers. '
+      generate the proposal and send it our potential customers. The pricing was only
+      a fraction of the other quotes we got!
   - name: Kate Mcparland
     image: "/images/kate.jpg"
     location: Tattoos By Kate
