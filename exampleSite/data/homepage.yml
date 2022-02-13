@@ -57,6 +57,10 @@ project:
 counter:
   enable: true
   counter_item:
+  - icon: ''
+    title: ''
+    count: ''
+    unit: ''
   - title: Projects Done
     count: 50+
     unit: ''
