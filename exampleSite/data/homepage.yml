@@ -73,7 +73,7 @@ counter:
     unit: ''
 testimonial:
   enable: true
-  title: What they say about us
+  title: Testimonials
   content: Hear what my most recent customers have to say!
   testimonial_item:
   - name: Dustin Poole
