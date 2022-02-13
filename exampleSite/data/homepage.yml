@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: "/images/bg.webp"
-  subtitle: Enterprise Technology for freelancers, small and medium sized business'
-  title: 'Affordable Pricing Modern Tech '
+  subtitle: Calgary web design and development
+  title: Calgary web design and development
   content: So you can leave your competitors in the dust
   button:
     enable: true
@@ -25,7 +25,7 @@ feature:
   enable: true
   subtitle: Why choose me
   title: ''
-  content: We understand what your business means to you,your requirements considering
+  content: I understand what your business means to you,your requirements considering
     trends.Smet nemo excepturi voluptas eligendi .
   feature_item:
   - icon: ti-light-bulb
