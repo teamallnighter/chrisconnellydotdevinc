@@ -63,7 +63,7 @@ counter:
     unit: ''
   - icon: ''
     title: Deployment Hours
-    count: '10,000'
+    count: "1000"
     unit: ''
   - title: Available Countries
     count: "39"
