@@ -28,9 +28,9 @@ feature:
   content: We work with local freelancers, small and medium sized business' and have
     geared our services towards what you need
   feature_item:
-  - icon: ti-light-bulb
-    title: Data analysis
-    content: A complete web app solution for business
+  - icon: ti-money
+    title: SMB Pricing
+    content: Your bottom line is important to us
   - icon: ti-panel
     title: Web Development
     content: A complete web app solution for business
