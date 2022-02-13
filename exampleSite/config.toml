@@ -6,7 +6,7 @@ paginate = 4
 summaryLength = "10"
 theme = "orbitor-hugo"
 themesDir = "../.."
-title = "Enterprise technology for Calgary based freelancers and smb's"
+title = "Calgary Web Design | The SMB and freelancers best friend"
 [[menu.company]]
 name = "About"
 url = "about"
