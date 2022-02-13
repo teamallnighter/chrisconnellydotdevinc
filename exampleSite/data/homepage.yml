@@ -2,9 +2,9 @@
 banner:
   enable: true
   bg_image: "/images/bg.webp"
-  subtitle: Calgary web design and development
+  subtitle: Enterprise Technology for freelancers, small and medium sized business'
   title: Calgary web design and development
-  content: So you can leave your competitors in the dust
+  content: Your SMB is our top priority
   button:
     enable: true
     label: Learn More
