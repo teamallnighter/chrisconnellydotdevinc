@@ -30,7 +30,8 @@ feature:
   feature_item:
   - icon: ti-money
     title: SMB Pricing
-    content: Your bottom line is important to us
+    content: Your bottom line is important to us and we've priced our services to
+      show it
   - icon: ti-harddrives
     title: Technology
     content: We adhere to the most up to date best standards and practices
