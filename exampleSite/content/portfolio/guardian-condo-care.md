@@ -2,7 +2,7 @@
 category = "Web Design"
 date = 2021-06-14T06:00:00Z
 description = "Calgary Web Design & Guardian Condominium Care"
-image = "/images/calgary-web-design-guard-example.png"
+image = "/images/5.jpg"
 page_header_bg = "/images/calgary-web-design-guard-example2.png"
 title = "Guardian Condo Care"
 
