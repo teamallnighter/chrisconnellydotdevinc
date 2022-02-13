@@ -12,7 +12,7 @@ banner:
 banner_feature:
   enable: true
   feature_item:
-  - icon: ti-light-bulb
+  - icon: ti-star
     title: 'Modern best standards and practices '
     content: Our sites use only the most up to date best standards and practices guidelines
       set out by Google, Moz, Facebook and Amazon
