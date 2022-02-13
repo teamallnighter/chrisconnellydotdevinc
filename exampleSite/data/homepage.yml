@@ -23,10 +23,10 @@ banner_feature:
     content: Saepe nulla praesentium eaque omnis perferendis a doloremque.
 feature:
   enable: true
-  subtitle: Why choose me
-  title: ''
-  content: I understand what your business means to you,your requirements considering
-    trends.Smet nemo excepturi voluptas eligendi .
+  subtitle: Why
+  title: Calgary web design?
+  content: We work with local freelancers, small and medium sized business' and have
+    geared our services towards what you need
   feature_item:
   - icon: ti-light-bulb
     title: Data analysis
