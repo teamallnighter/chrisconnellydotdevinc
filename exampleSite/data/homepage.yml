@@ -61,12 +61,6 @@ counter:
     title: ''
     count: ''
     unit: ''
-  - title: Projects Done
-    count: 50+
-    unit: ''
-  - title: Deployments Hours
-    count: '10,000'
-    unit: ''
   - title: Available Countries
     count: "39"
     unit: ''
