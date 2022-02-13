@@ -60,8 +60,8 @@ counter:
   - title: Projects Done
     count: 50+
     unit: ''
-  - title: Deployment House
-    count: '1,000'
+  - title: Deployments Hours
+    count: '10,000'
     unit: ''
   - title: Available Countries
     count: "39"
