@@ -44,8 +44,8 @@ feature:
       customers always find you.
   - icon: ti-rocket
     title: Load Speed
-    content: Our websites are optimized to load fast on all devices! Your IT shouldn't
-      slow you down
+    content: Our websites are optimized to load fast on all devices right out of the
+      box! Your IT shouldn't slow you down
 call_to_action:
   enable: true
   title: Assurance Service In Software Testing
