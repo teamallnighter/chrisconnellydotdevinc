@@ -20,3 +20,5 @@ fields:
 - type: text
   name: category
   label: category
+pages:
+- exampleSite/content/portfolio/guardian-condo-care.md
