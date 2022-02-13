@@ -1,10 +1,10 @@
 ---
 title: Studio Phi Tattoos
-date: 2019-09-05T15:24:04.000+06:00
+date: 2021-12-05T18:56:00+00:00
 description: This is meta description
 page_header_bg: images/bg/section-bg5.jpg
 category: Web Development
-image: images/portfolio/4.jpg
+image: "/images/4.jpg"
 
 ---
 ### Calgary Web Design & Studio Phi Tattoos
