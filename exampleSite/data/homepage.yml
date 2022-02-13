@@ -14,7 +14,8 @@ banner_feature:
   feature_item:
   - icon: ti-light-bulb
     title: 'Modern best standards and practices '
-    content: Saepe nulla praesentium eaque omnis perferendis a doloremque.
+    content: Our sites use only the most up to date best standards and practices guidelines
+      set out by Google, Moz, Facebook and Amazon
   - icon: ti-panel
     title: Advanced customer portal
     content: You're in the drivers seat
