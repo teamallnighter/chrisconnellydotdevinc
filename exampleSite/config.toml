@@ -8,77 +8,72 @@ theme = "orbitor-hugo"
 themesDir = "../.."
 title = "Calgary Web Design | The SMB and freelancers best friend"
 [[menu.company]]
-name = "About"
-url = "about"
-weight = 2
-[[menu.company]]
-name = "Portfolio"
-url = "portfolio"
-weight = 3
-[[menu.company]]
-name = "Service"
-url = "service"
-weight = 4
+name = "Contact"
+url = "contact"
+weight = 5
 [[menu.company]]
 name = "Blog"
 url = "blog"
-weight = 5
+weight = 4
 [[menu.company]]
-name = "Contact"
-url = "contact"
-weight = 6
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 2
-[[menu.main]]
+name = "Service"
+url = "service"
+weight = 3
+[[menu.company]]
 name = "Portfolio"
 url = "portfolio"
+weight = 2
+[[menu.company]]
+name = "About"
+url = "about"
+weight = 1
+[[menu.main]]
+name = "Pricing"
+parent = "Pages"
+url = "pricing"
+weight = 1
+[[menu.main]]
+name = "Service"
+parent = "Pages"
+url = "service"
+weight = 2
+[[menu.main]]
+name = "Blog"
+parent = "Pages"
+url = "blog"
 weight = 3
 [[menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 4
 [[menu.main]]
-name = "Blog"
-parent = "Pages"
-url = "blog"
-[[menu.main]]
-name = "Service"
-parent = "Pages"
-url = "service"
-[[menu.main]]
-name = "Pricing"
-parent = "Pages"
-url = "pricing"
-[[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 5
+[[menu.main]]
+name = "Portfolio"
+url = "portfolio"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.support]]
+name = "Contact"
+url = "contact"
+weight = 3
+[[menu.support]]
+name = "Service"
+url = "service"
+weight = 2
 [[menu.support]]
 name = "About"
 url = "about"
 weight = 1
-[[menu.support]]
-name = "Portfolio"
-url = "portfolio"
-weight = 2
-[[menu.support]]
-name = "Service"
-url = "service"
-weight = 3
-[[menu.support]]
-name = "Blog"
-url = "blog"
-weight = 4
-[[menu.support]]
-name = "Contact"
-url = "contact"
-weight = 5
 [outputs]
 home = ["HTML", "JSON"]
 [params]

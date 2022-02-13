@@ -20,3 +20,6 @@ fields:
 - type: text
   name: category
   label: category
+pages:
+- exampleSite/content/portfolio/studio-phi-tattoos.md
+- exampleSite/content/portfolio/studio-phi-tattoos.md
