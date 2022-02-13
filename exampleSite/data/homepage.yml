@@ -56,10 +56,9 @@ call_to_action:
     label: Portfolio
     link: portfolio
 project:
-  enable: true
-  title: I've done lots of web design work for Calgary based business' just like yours!
-  content: Let me help elevate your business to the next level with modern web design
-    techniques and state of the art technology
+  enable: false
+  title: ''
+  content: ''
 counter:
   enable: true
   counter_item:
