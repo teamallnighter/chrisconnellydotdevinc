@@ -76,6 +76,15 @@ testimonial:
   title: What they say about us
   content: Hear what my most recent customers have to say!
   testimonial_item:
+  - name: Name
+    image: ''
+    location: Calgary
+    content: Chris is super awesome to work with, very personable, he gets things
+      done with no hassle and really knows what he's doing. He has a really diverse
+      skill set as well, from creating API's, building apps and integrated functions
+      to websites, complete website development, programing, automation, and even
+      business management. His work has been really valuable for us and would fully
+      recommend him to anybody.
   - name: Dustin Poole
     image: "/images/dustin.jpg"
     location: Calgary
