@@ -21,8 +21,9 @@ banner_feature:
     content: With our advanced customer portal you know exactly what you are paying
       for down to the second!
   - icon: ti-bar-chart-alt
-    title: Your Growth Matters Most
-    content: 'We want to help your business grow! '
+    title: Dedicated to growth
+    content: We want to help your business grow using the modern web so you can grow
+      your business without worrying about IT
 feature:
   enable: true
   subtitle: Why
