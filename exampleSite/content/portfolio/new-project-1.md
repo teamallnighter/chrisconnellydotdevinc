@@ -5,7 +5,6 @@ description: Calgary Web Design and Studio Phi Tattoos
 page_header_bg: "/images/calgary-web-design-sp-shop.png"
 category: Web Development
 image: "/images/calgary-web-design-sp-home.png"
-draft: true
 
 ---
 ### Calgary Web Design and Studio Phi Tattoos
